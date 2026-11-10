@@ -6,11 +6,17 @@ An [Agent Skill](https://agentskills.io) for Claude Code, Codex, Cursor, Gemini 
 
 ## The idea
 
+> "Men are mistaken in thinking themselves free; their opinion is made up of consciousness of their own actions, and ignorance of the causes by which they are conditioned."
+>
+> — Spinoza, *Ethics*, Part II, Proposition 35, note (trans. R. H. M. Elwes)
+
+For Spinoza, freedom comes through understanding. A mind acts when it grasps what it is doing and why, and is merely pushed around when it does not. An AI agent that starts a task by guessing is in the second position: aware of its output, unaware of what it is missing.
+
 An agent produces a result from three things: what it knows, what it can do, and what it can check. If one of them is missing, telling the agent to try harder does not help. It will start anyway, take whatever route its current tools allow, fill the holes with guesses, and hand back something that looks finished.
 
 Often you could have closed the gap in a few minutes by installing a tool, sharing a reference, or answering one question. You just did not know the gap was there.
 
-This skill makes the agent find that gap and show it to you before any work begins. You decide what is worth your time, and the agent works with what you gave it.
+This skill makes the agent find that gap and show it to you before any work begins. You decide what is worth your time, and the agent then acts from understanding instead of from whatever tools happened to be loaded.
 
 ## What it does
 
